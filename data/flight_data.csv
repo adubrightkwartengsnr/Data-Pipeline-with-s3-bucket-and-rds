@@ -1,0 +1,11 @@
+flight_id,flight,callsign,squawk,clicks,from_iata,from_city,to_iata,to_city,model,type
+354fc50c,,FORTE11,,2204,,,,,Q4,Northrop Grumman RQ-4B Global Hawk
+35524e19,,X,7700,1068,LSV,Las Vegas,,,C17,Boeing C-17A Globemaster III
+35520ee3,,,,728,MHZ,Mildenhall,,,K35R,Boeing KC-135R Stratotanker
+3550ac2d,AA105,AAL105,,724,LHR,London,JFK,New York,B77W,Boeing 777-323(ER)
+35521d39,SQ9071,SIA9071,,556,BKK,Bangkok,,,A359,Airbus A350-941
+3551f7e5,,,,552,MHZ,Mildenhall,,,K35R,Boeing KC-135R Stratotanker
+35525fb0,LH506,DLH506,,476,FRA,Frankfurt,GRU,Sao Paulo,B748,Boeing 747-830
+3552360a,A46072,AZO6072,,452,IST,Istanbul,MRV,Mineralnye Vody,SU95,Sukhoi Superjet 100-95LR
+35525862,RRR827,BCT827,,416,LPL,Liverpool,PIK,Prestwick,C17,Boeing C-17A Globemaster III
+35526681,,155828,,344,MHZ,Mildenhall,,,C30J,Lockheed Martin C-130J-30 Hercules
