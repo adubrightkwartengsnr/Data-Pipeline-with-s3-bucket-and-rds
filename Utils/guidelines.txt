@@ -1,6 +1,6 @@
-Your data engineering project involves several steps, and you'll need to utilize various tools and technologies to achieve each requirement. Here's a high-level overview of how you can approach this project:
+This data engineering project involves several steps, and you'll need to utilize various tools and technologies to achieve each requirement. Here's a high-level overview of how you can approach this project:
 
-Setup AWS Services:
+1. Setup AWS Services:
 
 S3 Bucket: Create an S3 bucket where you'll store your data.
 Redshift Cluster: Set up a Redshift cluster for data warehousing.
